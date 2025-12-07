@@ -24,10 +24,6 @@ https://github.com/sebin0918
 
 | 임세빈 | 이혜리 | 김지현 |
 |-------|-------|-------|
-| <img width="513" height="513" alt="image" src="https://github.com/user-attachments/assets/5376ec3c-a049-4ba1-a332-df5d03b669e1" />
- | <img width="512" height="508" alt="image" src="https://github.com/user-attachments/assets/e25f6f37-660b-4c47-ad9d-1e0e556d99de" />
- | <img width="512" height="517" alt="image" src="https://github.com/user-attachments/assets/0880de42-a840-47ef-a097-79229705c204" />
- |
 | https://github.com/sebin0918 | https://github.com/leehyeri19 | 김지현 |
 | API | 웹페이지 구현 | UI/UX 디자인 |
 
